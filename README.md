@@ -47,8 +47,5 @@ Retailers worldwide sell a staggering 7 LEGO sets every single second.
 
 The following notebooks provide a comprehensive analysis of the LEGO dataset. From pieces by color to themes and rarity, advanced SQL queries and Python code allow us to extract valuable insights from the data. Understanding the evolution of LEGO sets over the years becomes possible through this exploration.
 
-### **Presentation:**
-https://www.canva.com/design/DAGRAglV2qg/6SLsnFBKNxxLboaNknnnIA/view?utm_content=DAGRAglV2qg&utm_campaign=designshare&utm_medium=link&utm_source=editor
-
 ### **Resources:**
 https://www.kaggle.com/datasets/rtatman/lego-database
